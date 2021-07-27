@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/air-fryer-calculator/static/css/main.b8966de6.chunk.css",
+    "main.js": "/air-fryer-calculator/static/js/main.22b5ddcf.chunk.js",
+    "main.js.map": "/air-fryer-calculator/static/js/main.22b5ddcf.chunk.js.map",
+    "runtime-main.js": "/air-fryer-calculator/static/js/runtime-main.0fd2ee8a.js",
+    "runtime-main.js.map": "/air-fryer-calculator/static/js/runtime-main.0fd2ee8a.js.map",
+    "static/js/2.0380d64f.chunk.js": "/air-fryer-calculator/static/js/2.0380d64f.chunk.js",
+    "static/js/2.0380d64f.chunk.js.map": "/air-fryer-calculator/static/js/2.0380d64f.chunk.js.map",
+    "index.html": "/air-fryer-calculator/index.html",
+    "static/css/main.b8966de6.chunk.css.map": "/air-fryer-calculator/static/css/main.b8966de6.chunk.css.map",
+    "static/js/2.0380d64f.chunk.js.LICENSE.txt": "/air-fryer-calculator/static/js/2.0380d64f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0fd2ee8a.js",
+    "static/js/2.0380d64f.chunk.js",
+    "static/css/main.b8966de6.chunk.css",
+    "static/js/main.22b5ddcf.chunk.js"
+  ]
+}
