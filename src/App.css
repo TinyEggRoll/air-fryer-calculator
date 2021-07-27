@@ -21,7 +21,6 @@
   display: flex;
   flex-direction: column;
 
-  width: 400px;
   margin: 40px;
   padding: 25px;
 
@@ -37,9 +36,7 @@
   align-items: center;
 
   padding: 25px;
-  margin: 50px;
-  margin-top: auto;
-  margin-bottom: auto;
+  margin: auto 50px;
 
   border: rgb(206, 56, 19) 10px solid;
   border-style: outset;
@@ -56,5 +53,11 @@
   }
   .headingSection-container {
     margin: 25px;
+  }
+  #ovenSubTitle {
+    font-size: 40px;
+  }
+  .mainSection-container .airFSection-container {
+    margin: auto;
   }
 }
