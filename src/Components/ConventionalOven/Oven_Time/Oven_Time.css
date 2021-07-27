@@ -1,0 +1,32 @@
+.ovenTimeSection {
+  display: flex;
+  justify-content: space-between;
+
+  margin: 5px;
+}
+
+.ovenTimeSection .ovenTime-container {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  align-content: center;
+  flex-wrap: wrap;
+  flex-shrink: 12;
+}
+
+#ovenTimeNumber {
+  font-size: 1.2em;
+  width: 50px;
+  margin-right: 10px;
+  margin-left: 10px;
+  border: outset yellow 3px;
+}
+
+.ovenTimeQPick-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+
+  height: 175px;
+  padding-left: 25px;
+}

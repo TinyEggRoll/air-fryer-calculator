@@ -1,0 +1,25 @@
+.ovenTempSection {
+  display: flex;
+  justify-content: space-between;
+
+  margin: 5px;
+  padding-bottom: 20px;
+}
+.ovenTempSection .ovenTemp-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  flex-shrink: 4;
+}
+.ovenTempSection .ovenTempQPick-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+
+  height: 175px;
+  padding-left: 25px;
+}
+
+.buttonsQuick {
+  text-align: center;
+}
