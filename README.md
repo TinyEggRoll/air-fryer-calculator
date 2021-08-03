@@ -14,4 +14,5 @@ Access The Site Here ->: https://tinyeggroll.github.io/air-fryer-calculator/
 
 Inspired By ->: https://www.airfryercalculator.com/
 
-![webview](https://user-images.githubusercontent.com/60073154/128085216-ad298360-2555-48fc-a718-604efe426266.png)
+![webview](https://user-images.githubusercontent.com/60073154/128085715-acba6ca1-e13f-4666-8d82-8219c0fb1481.png)
+
